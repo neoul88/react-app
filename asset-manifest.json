@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/neoul88/react-for-biginners/static/js/main.de81ee6c.js",
-    "index.html": "/neoul88/react-for-biginners/index.html",
-    "main.de81ee6c.js.map": "/neoul88/react-for-biginners/static/js/main.de81ee6c.js.map"
+    "main.js": "/react-for-biginners/static/js/main.b99795d0.js",
+    "index.html": "/react-for-biginners/index.html",
+    "main.b99795d0.js.map": "/react-for-biginners/static/js/main.b99795d0.js.map"
   },
   "entrypoints": [
-    "static/js/main.de81ee6c.js"
+    "static/js/main.b99795d0.js"
   ]
 }
